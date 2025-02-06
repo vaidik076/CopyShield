@@ -1,4 +1,4 @@
-AI-Powered Plagiarism Detection
+AI-Powered CopyShield
 
 How It Works:
 
